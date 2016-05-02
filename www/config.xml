@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
 <!-- See: https://github.com/phonegap/phonegap-start/blob/master/www/config.xml -->
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
@@ -15,7 +14,7 @@
       <string>300</string>
     </gap:config-file>
 
-    <content src="http://hansimou.github.io/default-theme/app/index.html?phonegapPlugins=v101&amp;onlyGameId=6437863281393664-0" />
+    <content src="http://yoav-zibin.github.io/default-theme/app/index.html?phonegapPlugins=v101&amp;onlyGameId=6437863281393664-0" />
 
     <name>EncloseCombat</name>
     <author email="mhsasd@gmail.com">
